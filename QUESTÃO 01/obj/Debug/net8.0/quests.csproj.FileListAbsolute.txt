@@ -1,0 +1,14 @@
+C:\Users\chris\Desktop\Nova pasta\quests\bin\Debug\net8.0\quests.exe
+C:\Users\chris\Desktop\Nova pasta\quests\bin\Debug\net8.0\quests.deps.json
+C:\Users\chris\Desktop\Nova pasta\quests\bin\Debug\net8.0\quests.runtimeconfig.json
+C:\Users\chris\Desktop\Nova pasta\quests\bin\Debug\net8.0\quests.dll
+C:\Users\chris\Desktop\Nova pasta\quests\bin\Debug\net8.0\quests.pdb
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\quests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\quests.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\quests.AssemblyInfo.cs
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\quests.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\quests.dll
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\refint\quests.dll
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\quests.pdb
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\quests.genruntimeconfig.cache
+C:\Users\chris\Desktop\Nova pasta\quests\obj\Debug\net8.0\ref\quests.dll

@@ -1,0 +1,14 @@
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\bin\Debug\net8.0\QUESTÃO.exe
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\bin\Debug\net8.0\QUESTÃO.deps.json
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\bin\Debug\net8.0\QUESTÃO.runtimeconfig.json
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\bin\Debug\net8.0\QUESTÃO.dll
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\bin\Debug\net8.0\QUESTÃO.pdb
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\QUESTÃO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\QUESTÃO.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\QUESTÃO.AssemblyInfo.cs
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\QUESTÃO.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\QUESTÃO.dll
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\refint\QUESTÃO.dll
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\QUESTÃO.pdb
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\QUESTÃO.genruntimeconfig.cache
+C:\Users\chris\Desktop\QUESTOES\QUESTÃO\obj\Debug\net8.0\ref\QUESTÃO.dll

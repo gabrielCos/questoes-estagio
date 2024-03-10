@@ -1,0 +1,7 @@
+-> Ligar o primeiro interruptor e deixá-lo ligado por alguns minutos
+
+-> Depois deligar o primeiro interruptor e ligar o segundo.
+
+-> Ir até até a sala da primeira ida que identifiquei como sendo controlada pelo interruptor 1 
+
+-> Ligar o interruptor 3 novamente na sala.
